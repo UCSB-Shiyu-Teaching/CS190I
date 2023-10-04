@@ -23,3 +23,5 @@ Updated lecture slides will be posted here shortly before each lecture.
 | Date        | Description                   | Course Materials | Important Events                                       |
 |-------------|-------------------------------|------------------|--------------------------------------------------------|
 | Thu, 09/28 | Introduction to deep learning | [[Slides](https://ucsb.instructure.com/courses/15056/files?preview=1464816)]   | [[Self-assessment](https://colab.research.google.com/drive/11t0o-8FYx7TI9jFMuYMFPaHRkn1_3L_H?usp=sharing)] is out, due on Sat, Oct 7, 11:59pm PST |
+| Tue, 10/03  | Python / Numpy review         | [[Notebooks](https://ucsb.instructure.com/courses/15056/files?preview=1481869)]                 |                                                        |
+| Thu, 10/05  | No class                              |                  |                                                        |
