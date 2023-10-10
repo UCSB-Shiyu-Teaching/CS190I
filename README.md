@@ -26,3 +26,4 @@ Updated lecture slides will be posted here shortly before each lecture.
 | Tue, 10/03  | Python / Numpy review         | [[Notebooks](https://ucsb.instructure.com/courses/15056/files?preview=1481869)]                 |                                                        |
 | Thu, 10/05  | No class                              |                  |                                                        |
 | Fri, 10/06  | Linear algebra and vector calculus review | [[Slides](https://ucsb.instructure.com/courses/15056/files?preview=1501742)]  |                                                        |
+| Tue, 10/10  | Linear regression | [[Slides](https://ucsb.instructure.com/courses/15056/files?preview=1526741)]  | [[HW 1](https://colab.research.google.com/drive/17K4joVZ2sbSckb-tVvEDFcn5jJb5AL-L?usp=sharing)] is out, due on Sat, Oct 21, 11:59pm PST                                                        |
