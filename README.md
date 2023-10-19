@@ -10,7 +10,7 @@ This course offers students an introduction to some of the latest state-of-the-a
 	- [Yujian Liu](https://yujianll.github.io/): Wednesday 5-6 pm at Phelps 3530
 	- [Jiabao Ji](https://question406.github.io/): Wednesday 6-7 pm at Phelps 3530
  - **Grader**:
-	- Wanjing Huang
+	- Wanjing Huang: Monday 6-7 pm at Phelps 3530 for homework regrade
 
 ## Course Discussions
 
@@ -30,4 +30,5 @@ Updated lecture slides will be posted here shortly before each lecture.
 | Fri, 10/06  | Linear algebra and vector calculus review | [[Slides](https://ucsb.instructure.com/courses/15056/files?preview=1501742)]  |                                                        |
 | Tue, 10/10  | Linear regression | [[Slides](https://ucsb.instructure.com/courses/15056/files?preview=1526741)] [[Annotated](https://ucsb.instructure.com/courses/15056/files?preview=1538748)]  | [[HW 1](https://colab.research.google.com/drive/17K4joVZ2sbSckb-tVvEDFcn5jJb5AL-L?usp=sharing)] is out, due on Sat, Oct 21, 11:59pm PST                                                        |
 | Thu, 10/12  | Gradient descent | [[Slides](https://ucsb.instructure.com/courses/15056/files?preview=1538751)] [[Annotated](https://ucsb.instructure.com/courses/15056/files?preview=1573615)] |                                                        |
-| Tue, 10/10  | Logistic regression | [[Slides](https://ucsb.instructure.com/courses/15056/files?preview=1573616)] | [[HW 2](https://colab.research.google.com/drive/1SoX_a7RTLWc_1ZPuIdrUzTby9bAB9omn?usp=sharing)] is out, due on Sat, Oct 28, 11:59pm PST                                                        |
+| Tue, 10/17  | Logistic regression | [[Slides](https://ucsb.instructure.com/courses/15056/files?preview=1573616)] [[Annotated](https://ucsb.instructure.com/courses/15056/files?preview=1590072)] | [[HW 2](https://colab.research.google.com/drive/1SoX_a7RTLWc_1ZPuIdrUzTby9bAB9omn?usp=sharing)] is out, due on Sat, Oct 28, 11:59pm PST                                                        |
+| Thu, 10/19  | Multi-class classification | [[Slides](https://ucsb.instructure.com/courses/15056/files?preview=1591834)]  |                                                        |
