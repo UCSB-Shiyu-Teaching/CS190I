@@ -35,3 +35,5 @@ Updated lecture slides will be posted here shortly before each lecture.
 | Fri, 10/20  | CRML summit | [[Event](https://ml.ucsb.edu/events/summit/responsible-machine-learning-summit-2023)]  | Extra credit assignment due on Sun, Oct 22, 11:59pm PST                                                       |
 | Tue, 10/24  | From linear to nonlinear | [[Slides](https://ucsb.instructure.com/courses/15056/files?preview=1621135)]  |                                                        |
 | Thu, 10/26  | Detail derivation of multi-class classification | [[Notes](https://ucsb.instructure.com/courses/15056/files?preview=1644770)]  | [[HW 3](https://drive.google.com/file/d/1bwihv-qtN-2u_98G4nZITJhPszpyYkMC/view?usp=sharing)] is out, due on Sat, Nov 4, 11:59pm PST                                                       | 
+| Tue, 10/31  | From linear to nonlinear con't | [[Annotated](https://ucsb.instructure.com/courses/15056/files?preview=1699793)]  |                                                        |
+
