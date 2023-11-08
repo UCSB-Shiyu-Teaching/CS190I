@@ -38,4 +38,4 @@ Updated lecture slides will be posted here shortly before each lecture.
 | Tue, 10/31  | From linear to nonlinear con't | [[Annotated](https://ucsb.instructure.com/courses/15056/files?preview=1699793)]  |                                                        |
 | Thu, 11/02  | Pytorch introduction | [[Notebook](https://drive.google.com/file/d/1GJreWiIz8-s3tJb1iAAD3M8uipsBiEBx/view?usp=sharing)] | [[HW 3](https://drive.google.com/file/d/1GJreWiIz8-s3tJb1iAAD3M8uipsBiEBx/view?usp=sharing)] is updated, due on Sat, Nov 11, 11:59pm PST |
 | Tue, 11/07  | Backpropagation | [[Slides](https://ucsb.instructure.com/courses/15056/files?preview=1714214)]  |                                                        |
-| Thu, 11/09  | Midterm 1 | [[Study materials](xxxx)]  |                                                        |
+| Thu, 11/09  | Midterm 1 | [[Study materials](https://ucsb.instructure.com/courses/15056/files?preview=1718641)]  |                                                        |
