@@ -39,3 +39,4 @@ Updated lecture slides will be posted here shortly before each lecture.
 | Thu, 11/02  | Pytorch introduction | [[Notebook](https://drive.google.com/file/d/1GJreWiIz8-s3tJb1iAAD3M8uipsBiEBx/view?usp=sharing)] | [[HW 3](https://drive.google.com/file/d/1GJreWiIz8-s3tJb1iAAD3M8uipsBiEBx/view?usp=sharing)] is updated, due on Sat, Nov 11, 11:59pm PST |
 | Tue, 11/07  | Backpropagation | [[Slides](https://ucsb.instructure.com/courses/15056/files?preview=1714214)]  |                                                        |
 | Thu, 11/09  | Midterm 1 | [[Study materials](https://ucsb.instructure.com/courses/15056/files?preview=1718641)]  |                                                        |
+| Tue, 11/14  | Backpropagation con't | [[Slides](https://ucsb.instructure.com/courses/15056/files?preview=1714214)]  | [[Backpropagation notebook](https://colab.research.google.com/drive/118_PkVisQrkaueKSufBnlSH5KlMhNu3t?usp=sharing)]
