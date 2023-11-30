@@ -44,3 +44,4 @@ Updated lecture slides will be posted here shortly before each lecture.
 | Tue, 11/21  | CNN | [[Slides](https://ucsb.instructure.com/courses/15056/files?preview=1815833)]  |  [[HW 4](https://colab.research.google.com/drive/10w5gJMs8FWi5Zex7PtuIgxRLl26PMtjl?usp=sharing)] is out, due on Sat, Dec 2, 11:59pm PST                                                      |
 | Thu, 11/23  | No class - Thanksgiving                             |                  |                                                        |
 | Tue, 11/28  | ResNet | [[Slides](https://ucsb.instructure.com/courses/15056/files?preview=1850993)]  |      |
+| Thu, 11/30  | RNN | [[Slides](https://ucsb.instructure.com/courses/15056/files?preview=1871563)]  |      |
