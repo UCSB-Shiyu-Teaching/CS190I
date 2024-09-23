@@ -8,7 +8,7 @@ CS 165B, the Introduction to Machine Learning course, is a prerequisite for this
 
 ## Team Hours
 - **Instructor**: 
-	- [Prof. Shiyu Chang](https://code-terminator.github.io/), Thursday after the lecture
+	- [Prof. Shiyu Chang](https://code-terminator.github.io/), Tuesday after the lecture
 - **TAs**:
 	- [Bairu Hou](https://hbr690188270.github.io/) (Head TA): TBD
 	- [Yujian Liu](https://yujianll.github.io/): TBD
