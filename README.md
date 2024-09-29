@@ -10,9 +10,9 @@ CS 165B, the Introduction to Machine Learning course, is a prerequisite for this
 - **Instructor**: 
 	- [Prof. Shiyu Chang](https://code-terminator.github.io/), Tuesday after the lecture
 - **TAs**:
-	- [Bairu Hou](https://hbr690188270.github.io/) (Head TA): TBD
-	- [Yujian Liu](https://yujianll.github.io/): TBD
-	- [Jiabao Ji](https://question406.github.io/): TBD
+	- [Bairu Hou](https://hbr690188270.github.io/) (Head TA): Wednesday 5 - 6 pm, HH 2118
+	- [Yujian Liu](https://yujianll.github.io/): Friday 5 - 6 pm, HH 2118
+	- [Jiabao Ji](https://question406.github.io/): Thursday 5 - 6 pm, HH 2118
  - **Grader**:
 	- TBD: TBD
 
@@ -32,4 +32,6 @@ Updated lecture slides will be posted here shortly before each lecture.
 
 | Date        | Description                   | Course Materials | Important Events                                       |
 |-------------|-------------------------------|------------------|--------------------------------------------------------|
-| Thu, 09/26 | Introduction to deep learning | [[Slides](xxx)]   | |
+| Thu, 09/26 | Introduction to deep learning | [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3461027)]   | |
+| Tue, 10/01 | CS165B Review - 1 | [[Slides]()]   | |
+
