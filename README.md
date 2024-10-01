@@ -33,5 +33,5 @@ Updated lecture slides will be posted here shortly before each lecture.
 | Date        | Description                   | Course Materials | Important Events                                       |
 |-------------|-------------------------------|------------------|--------------------------------------------------------|
 | Thu, 09/26 | Introduction to deep learning | [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3461027)]   | |
-| Tue, 10/01 | CS165B Review - 1 | [[Slides]()]   | |
+| Tue, 10/01 | CS165B Review - 1 | [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3471469)]   | |
 
