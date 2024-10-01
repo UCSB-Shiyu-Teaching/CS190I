@@ -33,5 +33,5 @@ Updated lecture slides will be posted here shortly before each lecture.
 | Date        | Description                   | Course Materials | Important Events                                       |
 |-------------|-------------------------------|------------------|--------------------------------------------------------|
 | Thu, 09/26 | Introduction to deep learning | [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3461027)]   | |
-| Tue, 10/01 | CS165B Review - 1 | [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3471469)]   | |
+| Tue, 10/01 | CS165B Review - 1 | [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3471469)]   | [[Self-assessment](https://colab.research.google.com/drive/11e8EFIg8yfdhCh68OOCMKoe8mC5DB2pa?usp=sharing)] is out, due on Sunday, Oct 13, 11:59 pm PST |
 
