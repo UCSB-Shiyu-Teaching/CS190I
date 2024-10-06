@@ -14,7 +14,7 @@ CS 165B, the Introduction to Machine Learning course, is a prerequisite for this
 	- [Yujian Liu](https://yujianll.github.io/): Friday 5 - 6 pm, HH 2118
 	- [Jiabao Ji](https://question406.github.io/): Thursday 5 - 6 pm, HH 2118
  - **Grader**:
-	- [Guanyu Yao](https://yaoguany.github.io/): Grading by appointment only
+	- [Guanyu Yao](https://yaoguany.github.io/): Re-grading by appointment only
 
 For any questions regarding course policies, homework assignments, late submissions, or regrading, please contact the head TAs first and include all other TAs in your email.
 
@@ -36,4 +36,5 @@ Updated lecture slides will be posted here shortly before each lecture.
 | Tue, 10/01 | CS165B Review  | [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3471469)]  [[Annotated](https://ucsb.instructure.com/courses/22770/files?preview=3493063)]  | [[HW 1 self-assessment](https://colab.research.google.com/drive/11e8EFIg8yfdhCh68OOCMKoe8mC5DB2pa?usp=sharing)] is out, due on Sunday, Oct 13, 11:59 pm PST |
 | Thu, 10/03 | CS165B Review Con't | | |
 | Fri, 10/04 | Discussion Section: Python Review| [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3489993)]   | |
+| Tue, 10/08 | Multi-class Classification | [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3495692)]   | |
 
