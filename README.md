@@ -36,7 +36,9 @@ Updated lecture slides will be posted here shortly before each lecture.
 | Tue, 10/01 | CS165B Review  | [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3471469)]  [[Annotated](https://ucsb.instructure.com/courses/22770/files?preview=3522753)]  | [[HW 1 self-assessment](https://colab.research.google.com/drive/11e8EFIg8yfdhCh68OOCMKoe8mC5DB2pa?usp=sharing)] is out, due on Sunday, Oct 13, 11:59 pm PST |
 | Thu, 10/03 | CS165B Review Con't | | |
 | Fri, 10/04 | Discussion Section: Python Review| [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3489993)]   | |
-| Tue, 10/08 | Multi-class Classification | [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3495692)]   | |
+| Tue, 10/08 | Multi-class Classification | [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3495692)]  [[Annotated](https://ucsb.instructure.com/courses/22770/files?preview=3561005)]  | |
 | Thu, 10/10 | Multi-class Classification Con't|  | |
-| Tue, 10/15 | Multi-class Classification Con't	|  |  [HW2](https://drive.google.com/file/d/15TihU_iZDMGCDkkbAhrSSXaYJeucXFfo/view?usp=sharing) is out, due on Sunday, Oct 27, 11:59 pm PST |
+| Tue, 10/15 | Multi-class Classification Con't	| [[Detailed notes](https://ucsb.instructure.com/courses/22770/files?preview=3561018)]  |  [[HW2](https://drive.google.com/file/d/15TihU_iZDMGCDkkbAhrSSXaYJeucXFfo/view?usp=sharing)] is out, due on Sunday, Oct 27, 11:59 pm PST |
+| Thu, 10/17 | Fully-connected Neural Networks	| [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3561033)]   |  |
+
 
