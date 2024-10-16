@@ -38,6 +38,7 @@ Updated lecture slides will be posted here shortly before each lecture.
 | Fri, 10/04 | Discussion Section: Python Review| [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3489993)]   | |
 | Tue, 10/08 | Multi-class Classification | [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3495692)]  [[Annotated](https://ucsb.instructure.com/courses/22770/files?preview=3561005)]  | |
 | Thu, 10/10 | Multi-class Classification Con't|  | |
+| Fri, 10/11 | Discussion Section: Logistic Regression on Imbalanced Data| [[Slides](https://ucsb.instructure.com/courses/22770/files/folder/SectionSlide?preview=3536300)]   | |
 | Tue, 10/15 | Multi-class Classification Con't	| [[Detailed notes](https://ucsb.instructure.com/courses/22770/files?preview=3561018)]  |  [[HW2](https://drive.google.com/file/d/15TihU_iZDMGCDkkbAhrSSXaYJeucXFfo/view?usp=sharing)] is out, due on Sunday, Oct 27, 11:59 pm PST |
 | Thu, 10/17 | Fully-connected Neural Networks	| [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3561033)]   |  |
 
