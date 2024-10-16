@@ -38,4 +38,5 @@ Updated lecture slides will be posted here shortly before each lecture.
 | Fri, 10/04 | Discussion Section: Python Review| [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3489993)]   | |
 | Tue, 10/08 | Multi-class Classification | [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3495692)]   | |
 | Thu, 10/10 | Multi-class Classification Con't|  | |
+| Tue, 10/15 | Multi-class Classification Con't	|  |  [HW2](https://drive.google.com/file/d/15TihU_iZDMGCDkkbAhrSSXaYJeucXFfo/view?usp=sharing) is out, due on Sunday, Oct 27, 11:59 pm PST |
 
