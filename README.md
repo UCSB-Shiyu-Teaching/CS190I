@@ -40,7 +40,7 @@ Updated lecture slides will be posted here shortly before each lecture.
 | Thu, 10/10 | Multi-class Classification Con't|  | |
 | Fri, 10/11 | Discussion Section: Logistic Regression on Imbalanced Data| [[Slides](https://ucsb.instructure.com/courses/22770/files/folder/SectionSlide?preview=3536300)]   | |
 | Tue, 10/15 | Multi-class Classification Con't	| [[Detailed notes](https://ucsb.instructure.com/courses/22770/files?preview=3561018)]  |  [[HW2](https://drive.google.com/file/d/15TihU_iZDMGCDkkbAhrSSXaYJeucXFfo/view?usp=sharing)] is out, due on Sunday, Oct 27, 11:59 pm PST |
-| Thu, 10/17 | Fully-connected Neural Networks	| [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3561033)]   |  |
+| Thu, 10/17 | Fully-connected Neural Networks	| [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3561033)]  [[Annotated](https://ucsb.instructure.com/courses/22770/files?preview=3605134)]   |  |
 | Fri, 10/18 | A Visual Proof for Universal Approximation Theorem	| [[Slides](https://ucsb.instructure.com/courses/22770/files/folder/SectionSlide?preview=3575387)]   |  |
 | Tue, 10/22 | Fully-connected Neural Networks Con't & Back Propagation	| |  |
 | Thu, 10/24 | Back Propagation	| [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3598259)]   |  |
