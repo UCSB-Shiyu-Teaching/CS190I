@@ -45,5 +45,5 @@ Updated lecture slides will be posted here shortly before each lecture.
 | Tue, 10/22 | Fully-connected Neural Networks Con't & Back Propagation	| |  |
 | Thu, 10/24 | Back Propagation	| [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3598259)]   |  |
 | Fri, 10/25 | Discussion Section: PyTorch Introduction| [[Slides](https://ucsb.instructure.com/courses/22770/files/folder/SectionSlide?preview=3646982)]   | |
-| Tue, 10/29 | Back Propagation Con't & Text Classification | [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3646978)]   |  |
+| Tue, 10/29 | Back Propagation Con't & Text Classification | [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3646978)]   | [[HW3](https://colab.research.google.com/drive/1kGVg91TqGV3H8jrsrawdVDkCyU115EZA?usp=sharing)] is out, due on Sunday, Nov 10, 11:59 pm PST |
 
