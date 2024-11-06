@@ -49,5 +49,5 @@ Updated lecture slides will be posted here shortly before each lecture.
 | Thu, 10/31 | Text Classification and Midterm 1 Review	| [[Annotated](https://ucsb.instructure.com/courses/22770/files?preview=3669938)]  [[Review](https://ucsb.instructure.com/courses/22770/files?preview=3669930)]    |  |
 | Fri, 11/01 | Discussion Section: Word Representation| [[Slides](https://ucsb.instructure.com/courses/22770/files/folder/SectionSlide?preview=3676135)]   | |
 | Tue, 11/05 | In-Class Midterm Exam | | |
-| Thu, 11/07 | Convolutional Neural Networks | [Slides](xxxx)] | |
+| Thu, 11/07 | Convolutional Neural Networks | [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3696375)] | |
 
