@@ -41,10 +41,13 @@ Updated lecture slides will be posted here shortly before each lecture.
 | Fri, 10/11 | Discussion Section: Logistic Regression on Imbalanced Data| [[Slides](https://ucsb.instructure.com/courses/22770/files/folder/SectionSlide?preview=3536300)]   | |
 | Tue, 10/15 | Multi-class Classification Con't	| [[Detailed notes](https://ucsb.instructure.com/courses/22770/files?preview=3561018)]  |  [[HW2](https://drive.google.com/file/d/15TihU_iZDMGCDkkbAhrSSXaYJeucXFfo/view?usp=sharing)] is out, due on Sunday, Oct 27, 11:59 pm PST |
 | Thu, 10/17 | Fully-connected Neural Networks	| [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3561033)]  [[Annotated](https://ucsb.instructure.com/courses/22770/files?preview=3605134)]   |  |
-| Fri, 10/18 | A Visual Proof for Universal Approximation Theorem	| [[Slides](https://ucsb.instructure.com/courses/22770/files/folder/SectionSlide?preview=3575387)]   |  |
+| Fri, 10/18 | Discussion Section: A Visual Proof for Universal Approximation Theorem	| [[Slides](https://ucsb.instructure.com/courses/22770/files/folder/SectionSlide?preview=3575387)]   |  |
 | Tue, 10/22 | Fully-connected Neural Networks Con't & Back Propagation	| |  |
 | Thu, 10/24 | Back Propagation	| [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3598259)]  [[Annotated](https://ucsb.instructure.com/courses/22770/files?preview=3654120)]  |  |
 | Fri, 10/25 | Discussion Section: PyTorch Introduction| [[Slides](https://ucsb.instructure.com/courses/22770/files/folder/SectionSlide?preview=3646982)]   | |
 | Tue, 10/29 | Back Propagation Con't & Text Classification | [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3646978)]    | [[HW3](https://colab.research.google.com/drive/1kGVg91TqGV3H8jrsrawdVDkCyU115EZA?usp=sharing)] is out, due on Sunday, Nov 10, 11:59 pm PST |
 | Thu, 10/31 | Text Classification and Midterm 1 Review	| [[Annotated](https://ucsb.instructure.com/courses/22770/files?preview=3669938)]  [[Review](https://ucsb.instructure.com/courses/22770/files?preview=3669930)]    |  |
 | Fri, 11/01 | Discussion Section: Word Representation| [[Slides](https://ucsb.instructure.com/courses/22770/files/folder/SectionSlide?preview=3676135)]   | |
+| Tue, 11/05 | In-Class Midterm Exam | | |
+| Thu, 11/07 | Convolutional Neural Networks | [Slides](xxxx)] | |
+
