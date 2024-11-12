@@ -51,6 +51,6 @@ Updated lecture slides will be posted here shortly before each lecture.
 | Tue, 11/05 | In-Class Midterm Exam | | |
 | Thu, 11/07 | Convolutional Neural Networks | [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3696375)] | |
 | Fri, 11/08 | Midterm 1 Common Mistakes Revisit | | |
-| Tue, 11/12 | Convolutional Neural Networks Con't | [[Annotated](https://ucsb.instructure.com/courses/22770/files?preview=3716194)] [[Video](https://ucsb.instructure.com/courses/22770/files?preview=3716201)]  | |
+| Tue, 11/12 | Convolutional Neural Networks Con't | [[Annotated](https://ucsb.instructure.com/courses/22770/files?preview=3716194)] [[Video](https://ucsb.instructure.com/courses/22770/files?preview=3716201)]  | [HW4](https://colab.research.google.com/drive/1zdu4mF_RbxoSvU5sS616ImwTWdDX3l7r?usp=sharing) is out, due on Sunday, Nov 24, 11:59 pm PST |
 | Thu, 11/14 | Residual Networks |  [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3716202)]  [[Annotated](https://ucsb.instructure.com/courses/22770/files?preview=3716203)] [[Video](https://www.dropbox.com/scl/fi/s81xtkbh1jj14ivfd9t5e/ResNet-Video.mp4?rlkey=sv4sr06yujg76c7auzb3m8xtl&dl=0)] | |
 
