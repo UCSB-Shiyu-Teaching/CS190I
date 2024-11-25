@@ -53,6 +53,7 @@ Updated lecture slides will be posted here shortly before each lecture.
 | Fri, 11/08 | Midterm 1 Common Mistakes Revisit | [[Reference reading](https://web.eecs.umich.edu/~justincj/slides/eecs498/WI2022/598_WI2022_lecture06.pdf)] | |
 | Tue, 11/12 | Convolutional Neural Networks Con't | [[Annotated](https://ucsb.instructure.com/courses/22770/files?preview=3716194)] [[Video](https://ucsb.instructure.com/courses/22770/files?preview=3716201)]  | [[HW4](https://colab.research.google.com/drive/1zdu4mF_RbxoSvU5sS616ImwTWdDX3l7r?usp=sharing)] is out, due on Sunday, Nov 24, 11:59 pm PST |
 | Thu, 11/14 | Residual Networks |  [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3716202)]  [[Annotated](https://ucsb.instructure.com/courses/22770/files?preview=3716203)] [[Video](https://www.dropbox.com/scl/fi/s81xtkbh1jj14ivfd9t5e/ResNet-Video.mp4?rlkey=sv4sr06yujg76c7auzb3m8xtl&dl=0)] | |
-| Tue, 11/19 | Strategies to Mitigate Overfitting | [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3772252)] | |
+| Tue, 11/19 | Strategies to Mitigate Overfitting | [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3772252)] [[Annotated](https://ucsb.instructure.com/courses/22770/files?preview=3906374)] | |
 | Thu, 11/21 | Recurrent Neural Network | [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3866453)] | |
+| Tue, 11/26 | Attention Mechanism | [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3906362)] | |
 
