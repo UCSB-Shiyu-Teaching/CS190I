@@ -57,7 +57,7 @@ Updated lecture slides will be posted here shortly before each lecture.
 | Thu, 11/21 | Recurrent Neural Network | [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3866453)]  [[Annotated](https://ucsb.instructure.com/courses/22770/files?preview=3927702)]  | Reference reading: [[LSTM](https://sophieeunajang.wordpress.com/wp-content/uploads/2020/10/lstm.pdf)], [[GRU](https://arxiv.org/pdf/1406.1078)]|
 | Tue, 11/26 | Attention Mechanism | [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3906362)] | [[HW5](https://colab.research.google.com/drive/1FRmNNvfdyEn4CBqb98qtzElVcQa2BCsn?usp=sharing)] is out, due on Sunday, Dec 8, 11:59 pm PST & Reference reading: [[Seq2Seq](https://proceedings.neurips.cc/paper_files/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf)], [[PyTorch tutorial](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)] |
 | Thu, 11/28 | No class -- Happy Thanksgiving! | | |
-| Tue, 12/02 | Attention Mechanism Con't & Transformers | [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3949364)] | |
-| Thu, 12/04 | Transformers Con't |  | |
+| Tue, 12/02 | Attention Mechanism Con't & Transformers | [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3949364)] | Reference reading: [[Attention is all you need]](https://arxiv.org/pdf/1706.03762) |
+| Thu, 12/04 | Transformers Con't |  | Reference reading: [[GPT-1]](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf), [[GPT-2]](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf), [[GPT-3]](https://papers.nips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf) |
 
 
