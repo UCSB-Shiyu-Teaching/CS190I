@@ -58,5 +58,6 @@ Updated lecture slides will be posted here shortly before each lecture.
 | Tue, 11/26 | Attention Mechanism | [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3906362)] | [[HW5](https://colab.research.google.com/drive/1FRmNNvfdyEn4CBqb98qtzElVcQa2BCsn?usp=sharing)] is out, due on Sunday, Dec 8, 11:59 pm PST & Reference reading: [[Seq2Seq](https://proceedings.neurips.cc/paper_files/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf)], [[PyTorch tutorial](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)] |
 | Thu, 11/28 | No class -- Happy Thanksgiving! | | |
 | Tue, 12/02 | Attention Mechanism Con't & Transformers | [[Slides](https://ucsb.instructure.com/courses/22770/files?preview=3949364)] | |
+| Thu, 12/04 | Transformers Con't |  | |
 
 
